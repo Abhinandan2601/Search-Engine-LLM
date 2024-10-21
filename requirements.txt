@@ -1,0 +1,31 @@
+langchain-openai
+langchain
+python-dotenv
+langchain_community
+langchain_core
+ipykernel
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
+langchain-text-splitters
+langchain_huggingface
+chromadb
+sentence_transformers
+faiss-cpu
+langchain_chroma
+duckdb
+pandas
+openai
+langchain-groq
+duckduckgo-search
+pymupdf
+mysql-connector-python
+SQLAlchemy
+validators==0.28.1 #helps validate the URL
+youtube_transcript_api #helps read the transcript from youtube videos
+unstructured
+pytube
+numexpr
+huggingface_hub
